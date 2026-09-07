@@ -17,3 +17,6 @@ lxml>=5.0.0
 
 #Logging and debugging
 rich>=13.7.0
+
+
+streamlit

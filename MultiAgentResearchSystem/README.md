@@ -11,6 +11,7 @@ conda activate multiagentresearch
 pip install -r requirements.txt
 
 
+
 2. Create tools
 
 
@@ -19,3 +20,6 @@ pip install -r requirements.txt
 4. Create Pipeline
 
 5. Run and Test
+
+
+python -m streamlit run app.py
